@@ -1,0 +1,11 @@
+{
+  "init_seconds": 2.0,
+  "min_samples": 10,
+  "landmark_confidence": 0.7,
+  "pose_recovery_seconds": 2.0,
+  "pose_reselect_seconds": 10.0,
+  "seat_baseline_seconds": 10.0,
+  "seat_max_displacement_ratio": 0.25,
+  "seat_iou_threshold": 0.5,
+  "toy_iou_threshold": 0.0
+}

@@ -1,0 +1,11 @@
+# Python 3.11. Install a matching torch/torchvision pair separately (see README).
+numpy==1.26.4
+opencv-contrib-python==4.11.0.86
+mediapipe==0.10.21
+ultralytics==8.3.161
+filterpy==1.4.5
+scipy==1.16.0
+pillow==11.0.0
+jax==0.7.1
+jaxlib==0.7.1
+ml_dtypes==0.5.4

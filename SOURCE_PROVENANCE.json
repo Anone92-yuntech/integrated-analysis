@@ -1,0 +1,172 @@
+{
+  "created_utc": "2026-10-28T02:56:59.820790+00:00",
+  "sources": [
+    {
+      "source_project": "attention",
+      "source_path": "attention/person_detector.py",
+      "source_sha256": "2684c36ca1227daab8911818d8b271a5dba3b67c501a5cb362447c24fa3b9bda",
+      "integrated_path": "person_detector.py",
+      "initial_integrated_sha256": "2684c36ca1227daab8911818d8b271a5dba3b67c501a5cb362447c24fa3b9bda",
+      "adapted": false,
+      "integrated_sha256": "2684c36ca1227daab8911818d8b271a5dba3b67c501a5cb362447c24fa3b9bda"
+    },
+    {
+      "source_project": "attention",
+      "source_path": "attention/ocsort_adapter.py",
+      "source_sha256": "e4f2ed7238318c18dd3884b072fe9707fe3871d5c8ca56549f25d4ca0e0bc1be",
+      "integrated_path": "ocsort_adapter.py",
+      "initial_integrated_sha256": "e4f2ed7238318c18dd3884b072fe9707fe3871d5c8ca56549f25d4ca0e0bc1be",
+      "adapted": false,
+      "integrated_sha256": "e4f2ed7238318c18dd3884b072fe9707fe3871d5c8ca56549f25d4ca0e0bc1be"
+    },
+    {
+      "source_project": "attention",
+      "source_path": "attention/target_selection.py",
+      "source_sha256": "9525ce4cfb552bc280f8e8896104ec0822c50b16f5c01342fd3bbed13a615034",
+      "integrated_path": "target_selection.py",
+      "initial_integrated_sha256": "ce99eb83d24acf913c373543906625a238db4ca8eae731e49923e4303ac1fe8a",
+      "adapted": true,
+      "integrated_sha256": "ce99eb83d24acf913c373543906625a238db4ca8eae731e49923e4303ac1fe8a"
+    },
+    {
+      "source_project": "attention",
+      "source_path": "attention/posture_detection.py",
+      "source_sha256": "f6895bae35b131ea94a4c4b012a429981c3c1a0359e2c3f92b9e8b3569358192",
+      "integrated_path": "posture_detection.py",
+      "initial_integrated_sha256": "f6895bae35b131ea94a4c4b012a429981c3c1a0359e2c3f92b9e8b3569358192",
+      "adapted": false,
+      "integrated_sha256": "f6895bae35b131ea94a4c4b012a429981c3c1a0359e2c3f92b9e8b3569358192"
+    },
+    {
+      "source_project": "attention",
+      "source_path": "attention/tracking_pipeline.py",
+      "source_sha256": "c7fdc7859bdf86817302aba3630be18216ea3002554d9f038379d6ded03366dc",
+      "integrated_path": "tracking_pipeline.py",
+      "initial_integrated_sha256": "356e2aa45bcdc88e90b17987f7d3b1fe3d4c30c86086a203009d2d67bbb3694f",
+      "adapted": true,
+      "integrated_sha256": "356e2aa45bcdc88e90b17987f7d3b1fe3d4c30c86086a203009d2d67bbb3694f"
+    },
+    {
+      "source_project": "attention",
+      "source_path": "attention/attention_engine.py",
+      "source_sha256": "3be526313d51d560643194487d68d801f54dd960dbed4eb26189b1b31995e38f",
+      "integrated_path": "attention_engine.py",
+      "initial_integrated_sha256": "5f7c492f2bc5f22710f03e8ef8666cb5f26418623d5bb23871619c3343701f26",
+      "adapted": true,
+      "integrated_sha256": "e0eae555bcdd390b14480103323c8af36cd019743abbb562233265975f1ad4ae"
+    },
+    {
+      "source_project": "attention",
+      "source_path": "attention/best.pt",
+      "source_sha256": "f5fce7480e8fb4aebd800eeaae24299979cd7aa6df49c8085b0a67ee6ecf906f",
+      "integrated_path": "models/best.pt",
+      "initial_integrated_sha256": "f5fce7480e8fb4aebd800eeaae24299979cd7aa6df49c8085b0a67ee6ecf906f",
+      "adapted": false,
+      "integrated_sha256": "f5fce7480e8fb4aebd800eeaae24299979cd7aa6df49c8085b0a67ee6ecf906f"
+    },
+    {
+      "source_project": "attention",
+      "source_path": "attention/models/yolox_nano.onnx",
+      "source_sha256": "c789161ed43c8269fcd4e67c67eeeb4e80c622da2eb296a20bc6007bd18a0b7d",
+      "integrated_path": "models/yolox_nano.onnx",
+      "initial_integrated_sha256": "c789161ed43c8269fcd4e67c67eeeb4e80c622da2eb296a20bc6007bd18a0b7d",
+      "adapted": false,
+      "integrated_sha256": "c789161ed43c8269fcd4e67c67eeeb4e80c622da2eb296a20bc6007bd18a0b7d"
+    },
+    {
+      "source_project": "attention",
+      "source_path": "attention/models/pose_landmarker_lite.task",
+      "source_sha256": "59929e1d1ee95287735ddd833b19cf4ac46d29bc7afddbbf6753c459690d574a",
+      "integrated_path": "models/pose_landmarker_lite.task",
+      "initial_integrated_sha256": "59929e1d1ee95287735ddd833b19cf4ac46d29bc7afddbbf6753c459690d574a",
+      "adapted": false,
+      "integrated_sha256": "59929e1d1ee95287735ddd833b19cf4ac46d29bc7afddbbf6753c459690d574a"
+    },
+    {
+      "source_project": "medispipe_final",
+      "source_path": "medispipe_final/motion_detection.py",
+      "source_sha256": "d43afc3d249cadc04dce26093ec4f31104baa4f4c2254a5de7a19119ca88701c",
+      "integrated_path": "motion_detection.py",
+      "initial_integrated_sha256": "d43afc3d249cadc04dce26093ec4f31104baa4f4c2254a5de7a19119ca88701c",
+      "adapted": false,
+      "integrated_sha256": "d43afc3d249cadc04dce26093ec4f31104baa4f4c2254a5de7a19119ca88701c"
+    },
+    {
+      "source_project": "medispipe_final",
+      "source_path": "medispipe_final/behavior_engine.py",
+      "source_sha256": "b16f85b4529d66a647486e69711d4170b51d1e78ca2c087c9a54a450c82c13da",
+      "integrated_path": "behavior_engine.py",
+      "initial_integrated_sha256": "580027ccb1a7c7c0717723354f1d0994deaeb597661a05d86eac19dd4741a60f",
+      "adapted": true,
+      "integrated_sha256": "580027ccb1a7c7c0717723354f1d0994deaeb597661a05d86eac19dd4741a60f"
+    },
+    {
+      "source_project": "medispipe_final",
+      "source_path": "medispipe_final/seat_detection.py",
+      "source_sha256": "98dd5e4c93cc978f86046d2d3569c325520850c51addc5687de09aeaf8cd2d06",
+      "integrated_path": "seat_detection.py",
+      "initial_integrated_sha256": "81cbae7cfb00f42e1fb94ec82ba4aceda4a20b462a27a08372f468f0e7671768",
+      "adapted": true,
+      "integrated_sha256": "81cbae7cfb00f42e1fb94ec82ba4aceda4a20b462a27a08372f468f0e7671768"
+    },
+    {
+      "source_project": "medispipe_final",
+      "source_path": "medispipe_final/pose_viewer.py",
+      "source_sha256": "f734befad6af701e33443a91bc204c0e0612f9944cf3ffda3bfecfb7b904b9ed",
+      "integrated_path": "pose_viewer.py",
+      "initial_integrated_sha256": "e6f80069bf5b73d02188d40efb59c32b6923297e4ca9495e4fe90aa6f2ac49f0",
+      "adapted": true,
+      "integrated_sha256": "e6f80069bf5b73d02188d40efb59c32b6923297e4ca9495e4fe90aa6f2ac49f0"
+    },
+    {
+      "source_project": "DAN",
+      "source_path": "DAN/networks/dan.py",
+      "source_sha256": "75f2cf16876e16f100ab483f2665726da1bff8a815cd2a2e2e83443950c34515",
+      "integrated_path": "networks/dan.py",
+      "initial_integrated_sha256": "75f2cf16876e16f100ab483f2665726da1bff8a815cd2a2e2e83443950c34515",
+      "adapted": false,
+      "integrated_sha256": "75f2cf16876e16f100ab483f2665726da1bff8a815cd2a2e2e83443950c34515"
+    },
+    {
+      "source_project": "DAN",
+      "source_path": "DAN/networks/LICENSE.DAN",
+      "source_sha256": "719e89ad1bc0e0c1324c495e12de4c27fa48ca12ff14155b19394ca953cc86b0",
+      "integrated_path": "networks/LICENSE.DAN",
+      "initial_integrated_sha256": "719e89ad1bc0e0c1324c495e12de4c27fa48ca12ff14155b19394ca953cc86b0",
+      "adapted": false,
+      "integrated_sha256": "719e89ad1bc0e0c1324c495e12de4c27fa48ca12ff14155b19394ca953cc86b0"
+    },
+    {
+      "source_project": "DAN",
+      "source_path": "DAN/best_transfer_model.pth",
+      "source_sha256": "fccef63f6464c678852224f7cbf24c9c6fb9b9e682f0fd15f774ec7df4b245b3",
+      "integrated_path": "models/best_transfer_model.pth",
+      "initial_integrated_sha256": "fccef63f6464c678852224f7cbf24c9c6fb9b9e682f0fd15f774ec7df4b245b3",
+      "adapted": false,
+      "integrated_sha256": "fccef63f6464c678852224f7cbf24c9c6fb9b9e682f0fd15f774ec7df4b245b3"
+    }
+  ],
+  "dataset_policy": "No shared dataset copied or changed. Inference labels 0/1/2; shared training labels remain 0/1.",
+  "ocsort_provenance": "vendor/ocsort/PROVENANCE.json",
+  "source_integrity_check": {
+    "unchanged": true,
+    "changed_files": []
+  },
+  "implementation_sha256": {
+    "attention_engine.py": "e0eae555bcdd390b14480103323c8af36cd019743abbb562233265975f1ad4ae",
+    "behavior_engine.py": "580027ccb1a7c7c0717723354f1d0994deaeb597661a05d86eac19dd4741a60f",
+    "emotion_inference.py": "61cf657b22fc7bc0c8ef3998487b29fe0eef4b333383a5001f86c4d191a0c399",
+    "fetch_models.py": "4a26599e5b63fceef0f83d4e36b83956308373e67cc212425c3311b0d8147085",
+    "integrated_app.py": "30c2fd9472dc736044f40811dad1301835d409158003098061127468bf8c9267",
+    "motion_detection.py": "d43afc3d249cadc04dce26093ec4f31104baa4f4c2254a5de7a19119ca88701c",
+    "ocsort_adapter.py": "e4f2ed7238318c18dd3884b072fe9707fe3871d5c8ca56549f25d4ca0e0bc1be",
+    "person_detector.py": "2684c36ca1227daab8911818d8b271a5dba3b67c501a5cb362447c24fa3b9bda",
+    "pose_viewer.py": "e6f80069bf5b73d02188d40efb59c32b6923297e4ca9495e4fe90aa6f2ac49f0",
+    "posture_detection.py": "f6895bae35b131ea94a4c4b012a429981c3c1a0359e2c3f92b9e8b3569358192",
+    "seat_detection.py": "81cbae7cfb00f42e1fb94ec82ba4aceda4a20b462a27a08372f468f0e7671768",
+    "target_selection.py": "ce99eb83d24acf913c373543906625a238db4ca8eae731e49923e4303ac1fe8a",
+    "tracking_pipeline.py": "356e2aa45bcdc88e90b17987f7d3b1fe3d4c30c86086a203009d2d67bbb3694f",
+    "verify_windows.py": "871111ae84a958897e35bd0012c696a70c5107f1e1e90662a8a2c676ded3143a",
+    "window_log.py": "2943a360960aadf7c32342c3c5f7acf246020c1ceeadb2c64eeb5d90ba95f7d4"
+  }
+}
